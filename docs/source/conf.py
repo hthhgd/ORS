@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'TSS玩家帮助手册'
+project = 'ORS玩家帮助手册'
 copyright = '2022, hthhgd'
 author = 'hthhgd'
 
