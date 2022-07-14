@@ -2,9 +2,8 @@
 ===================================
 
 * 游玩指导相关会开放 公共编辑游玩文档 ，供各个机器作者与聚落成员编辑（建设中）
-   `ORS-1机器清单 <https://docs.qq.com/sheet/DRUxkb21PbHh3Qkh0>`__
+   `ORS-1机器清单 <https://docs.qq.com/sheet/DRW1nRVVHUFF3akNS>`__
    
-   `ORS地狱交通表 <https://docs.qq.com/sheet/DT3ZlcFJick5HZEhN>`__
   2022/05/14 羔湯 编辑
 
 
